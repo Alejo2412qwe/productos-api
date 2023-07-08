@@ -1,0 +1,4 @@
+com\m5a\mongo\model\Product.class
+com\m5a\mongo\MongoApplication.class
+com\m5a\mongo\controller\ProductoController.class
+com\m5a\mongo\repository\ProductoRepository.class
